@@ -1,4 +1,0 @@
-Đây là 1 project nhỏ để demo một phần của git workflow <br>
-Git workflow là một công thức hay còn gọi là 1 quy trình chuẩn để các thành viên sử dụng git làm việc cùng nhau <br>
-Nếu không có git workflow, dự án có thể sẽ bị những vấn đề sau: <br>
-code người này đè lên code người kia, code đang lỗi vẫn được đẩy lên bản chính khiến ứng dụng sập, không rõ phiên bản nào là phiên bản ổn định nhất để gửi cho khách hàng.
